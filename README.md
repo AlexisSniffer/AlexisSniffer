@@ -10,8 +10,8 @@
 
 ```javascript
 const AlexisSniffer = {
-  code: ['Javascript', 'CSS'],
-  tools: ['Node.js', 'Vue.js (Nuxt)', 'Strapi'],
+  code: ['Javascript', 'CSS', 'Java'],
+  tools: ['Node.js', 'Vue.js', 'Flutter'],
   database: ['Mongodb', 'Postgres', 'Oracle', 'SLQ Server']
 }
 ```
