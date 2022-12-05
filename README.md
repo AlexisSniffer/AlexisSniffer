@@ -7,6 +7,9 @@
 
 <h3 align="center">I am a Developer FullStack</h3>
 
+![HTML5(https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3(https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ```javascript
 const AlexisSniffer = {
   code: ['Javascript', 'CSS', 'Java'],
