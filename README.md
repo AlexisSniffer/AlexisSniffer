@@ -24,6 +24,8 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+[![Alexis Sniffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexissniffer&theme=prussian&show_icons=true)](https://github.com/alexissniffer/github-readme-stats)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=alexissniffer&theme=algolia&margin-w=15&margin-h=15&no-frame=true)
 
